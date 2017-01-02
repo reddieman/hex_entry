@@ -60,5 +60,5 @@ def parse():
             break
         
         except ValueError as e:
-          print(e)
+          # print(e)
           print("Your entry is invalid.\nLet's try again.\n")
